@@ -12,8 +12,8 @@ https://docs.djangoproject.com/en/2.0/ref/settings/
 https://github.com/inoxbp/my-first-blog.git
 ae894908288bf92cef84ce365d7bea1b4b773e1b
 pa_autoconfigure_django.py https://github.com/inoxbp/my-first-blog.git
-cd	~/<your-pythonanywhere-username>.pythonanywhere.com
-cd	~/inoxbp.pythonanywhere.com
+cd ~/<your-pythonanywhere-username>.pythonanywhere.com
+cd ~/inoxbp.pythonanywhere.com
 Post.objects.create(author=me, title='Sample title3', text='Test3')
 """
 
